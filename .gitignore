@@ -1,0 +1,10 @@
+#ignore folder
+/doc/*
+/nodeclub-master/*
+/Python27/*
+/software/*
+/source/*
+/Sublime Text 2/*
+/report/mean/*
+/report/mongodb-win32-i386-2.4.9
+
